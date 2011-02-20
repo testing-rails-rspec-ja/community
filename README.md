@@ -2,12 +2,9 @@
 
 We're an online community to share knowledge of testing with Rails using Rspec in Japanese.
 
-RailsでRSpecを使ってテストしているプログラマが日本語で話しあえるオンラインの場があるといいかなと思ったのでつくってみます(kakutani)。コミュニティづくりとしての実験的な試みも兼ねています(kakutani)
+RailsでRSpecを使ってテストしているプログラマが日本語で話しあえるオンラインの場があるといいかなと思ったのでつくってみます(kakutani)。
 
-## How to Join Us
+コミュニティづくりとしての実験的な試みも兼ねています。うまくいくといいな(kakutani)。
+詳細は、このリポジトリのWikiを参照してください:
 
-TBA
-
-## hashtag
-
-[#trrja](http://twitter.com/search?q=%23trrja)
+<https://github.com/testing-rails-rspec-ja/community/wiki>
